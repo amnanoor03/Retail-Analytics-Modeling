@@ -1,7 +1,7 @@
-# Retail Analytics Data Modelling: Star Schema Modeling
+# Retail Analytics Data Modelling: Star Schema Modelling
 
 ## 🎯 Project Objective
-This project demonstrates the transition from raw transactional data to a structured **Star Schema** optimized for analytical queries. Using PostgreSQL, I transformed a flat retail dataset into Fact and Dimension tables to improve data integrity and query performance.
+This project demonstrates the transition from raw transactional data to a structured **Star Schema** optimised for analytical queries. Using PostgreSQL, I transformed a flat retail dataset into Fact and Dimension tables to improve data integrity and query performance.
 
 ## 🏗️ Data Architecture
 The model follows a classic Star Schema design:
